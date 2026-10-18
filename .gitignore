@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sgtxt
+sgtxt.so
+sgtxt.dylib
+sgtxt.dll
+libsgtxt.a
+sgtxt.a
+sgtxt.lib
+sgtxt-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

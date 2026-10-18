@@ -1,0 +1,12 @@
+{
+	"description": "Standard galactic Notpad ",
+	"dependencies": {
+		"dlangui": "~>0.10.8"
+	},
+	"authors": [
+		"Yel0w"
+	],
+	"copyright": "Copyright © 2026, Yel0w",
+	"license": "GPL-3.0-or-later",
+	"name": "sgtxt"
+}
